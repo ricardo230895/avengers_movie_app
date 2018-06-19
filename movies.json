@@ -1,0 +1,81 @@
+{
+  "movies": [{
+    "title" : "Steve Rogers: Captain America",
+    "episode_number" : "1",
+	"real_name" : "Steven Rogers",
+	"height" : "6'2",
+	"weight" : "220 lbs",
+	"origin" : " Captain America Comics #1 (1941); Tales of Suspense #63 (1965); Captain America #109 (1969); Captain America #255 (1981); Adventures of Captain America #1-2 (1991)",
+    "super_powers" : ["He represented the pinnacle of human physical perfection","The agility of an Olympic-level gymnast","The hand-eye coordination of an Olympic-level archer or marksman","Hold his breath for over 20 minutes","He is faster than a horse!","Unheard of levels of stamina and endurance","Super strength"],
+    "description" : "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+    "poster" : "Heroe_1_poster.jpg",
+    "hero_image" : "wallpaper_1_hero.jpg"
+	
+  },
+
+  {
+    "title" : "Natasha Romanoff: Black Widow",
+    "episode_number" : "2",
+	"real_name" : "Natasha Romanoff",
+	"height" : "5'7",
+	"weight" : "125 lbs",
+	"origin" : "Avengers #44 (1967), Daredevil #88 (1972)",
+    "super_powers" : ["Combat Specialist","Computer Operation Intuition","Lie Detection/Truth Detection","Photographic Deduction","Self Sufficiency","Scientific Prowess","Weapon Proficiency"],
+    "description" : "Natasha Romanova, known by many aliases, is an expert spy, athlete, and assassin. Trained at a young age by the KGB's infamous Red Room Academy, the Black Widow was formerly an enemy to the Avengers. She later became their ally after breaking out of the U.S.S.R.'s grasp, and also serves as a top S.H.I.E.L.D. agent.",
+    "poster" : "Heroe_2_poster.jpg",
+    "hero_image" : "wallpaper_2_hero.jpg"
+  },
+
+  {
+    "title" : "Bruce Banner: Hulk",
+    "episode_number" : "3",
+	"real_name" : "Robert Bruce Banner",
+	"height" : "5' 9½ (Banner); 6'6 (gray Hulk); 7' – 8' (green/savageHulk); 7'6 (green/Professor Hulk)",
+	"weight" : "128 lbs. (Banner); 900 lbs. (gray Hulk); 1,040 – 1,400 lbs.(green/savage Hulk); 1,150 lbs. (green/Professor Hulk)",
+	"origin" : "Incredible Hulk #1 (1962)",
+    "super_powers" : ["Transformation","Superhuman Strength","Self Sustenance","Prolonged Longevity","Superhuman Speed","Superhuman Stamina","Superhuman Durability","Regenerative Healing Factor","Resistance to Psychic Control","Immunity to All Diseases and Viruses","Adaptation to Hostile Environments"],
+    "description" : "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+    "poster" : "Heroe_3_poster.jpg",
+    "hero_image" : "wallpaper_3_hero.jpg"
+  },
+
+  {
+    "title" : "Clinton Francis: Hawkeye",
+    "episode_number" : "4",
+	"real_name" : " Clinton Francis 'Clint' Barton",
+	"height" : "6'3",
+	"weight" : "230 lbs",
+	"origin" : "Avengers #19 (1965)",
+    "super_powers" : ["Master archer and marksman","Expert tactician and hand-to-hand combatant","Uses a variety of trick arrows"],
+    "description" : "Clint Barton was born in Waverly, Iowa. At a young age he lost both of his parents in a car accident. After six years in an orphanage, Clint and his brother Barney ran away to join the Carson Carnival of Travelling Wonders. Clint soon caught the eye of the Swordsman, who took the young boy on as his assistant. Along with the help of Trick Shot, the Swordsman trained Clint to become a master archer.[11] Clint later found the Swordsman embezzling money from the carnival. Before he could turn his mentor over to the authorities, Clint was beaten and left for dead, allowing the Swordsman to escape town. Clint's relationship with his brother Barney and Trick Shot soon deteriorated as well. Clint adapted his archery skills to become a star carnival attraction, a master archer called Hawkeye, otherwise known as The World's Greatest Marksman. ",
+    "poster" : "Heroe_4_poster.jpg",
+    "hero_image" : "wallpaper_4_hero.jpg"
+  },
+
+  {
+    "title" : "Thor Odinson: Thunder God",
+    "episode_number" : "5",
+	"real_name" : "Thor Odinson",
+	"height" : "6'6",
+	"weight" : "640 lbs",
+	"origin" : " Journey into Mystery #83 (1962), Thor #159 (1968), Thor Annual #11 (1983)",
+    "super_powers" : ["Trained in the arts of war","Incredibly long-lived","High resistance to physical injury that approaches invulnerability.","superhuman speed, agility, and reflexes","Have the Mjolnir, a legendary weapon","Can Fly","Can control the Thunders"],
+    "description" : "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate. He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+    "poster" : "Heroe_5_poster.jpg",
+    "hero_image" : "wallpaper_5_hero.jpg"
+  },
+
+  {
+    "title" : "Tony Stark: Ironman",
+    "episode_number" : "6",
+	"real_name" : " Anthony Edward 'Tony' Stark",
+	"height" : " 6'1; (in armor) 6'6",
+	"weight" : " 225 lbs.; (in armor) 425 lbs.",
+	"origin" : "Tales of Suspense #39 (1963)",
+    "super_powers" : ["Millionaire","Handsome","Super-Sarcastic","Have a genius level intellect","Invented a wide range of sophisticated devices, specializing in advanced weapons and armor."],
+    "description" : "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+    "poster" : "Heroe_6_poster.jpg",
+    "hero_image" : "wallpaper_6_hero.jpg"
+  }]
+
+}

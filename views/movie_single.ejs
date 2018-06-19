@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <% include partials/head.ejs %>
+
+</head>
+<body>
+
+	<% include partials/header.ejs %>
+
+	<div id="hero-image-single" style="background-image: url('/images/<%= movie.hero_image %>');">
+		<h1 id="hero-title"><%= title %></h1>
+	</div>
+
+
+	<div class="content-padding clearfix">
+
+		<div class="poster-wrapper">
+  		<img src="/images/<%= movie.poster %>" class="img-responsive">
+  	</div>
+
+  	<div class="description-wrapper">
+		  
+		<div class="name">
+			<h2 class="movie-header">Real Name</h2>
+			<p style="font-size:20px;"><%= movie.real_name %></p>
+		</div>
+
+  		<div class="description">
+  			<h2 class="movie-header">Description</h2>
+  			<p style="font-size:15px;"><%= movie.description %></p>
+		</div>
+		  
+		<div class="height">
+			<h2 class="movie-header">Height</h2>
+			<p style="font-size:20px;"><%= movie.height %></p>
+		</div>
+
+		<div class="weight">
+			<h2 class="movie-header">Weight</h2>
+			<p style="font-size:20px;"><%= movie.weight %></p>
+		</div>
+
+		<div class="borderless">
+			<h2 class="movie-header">Super Powers</h2>
+			<ul class="list-group">
+				<% for (var i = 0; i < super_powers.length; i++) { %>
+					<li class="list-group-item list-group-item-primary" ><%= "●  " + super_powers[i] %></li>
+				<% } %>
+			</ul>
+		</div>
+
+		
+		<div class="origin">
+			<h2 class="movie-header">Origin</h2>
+			<p style="font-size:20px;"><%= movie.origin %></p>
+		</div>
+
+  	</div>
+
+	</div>
+
+
+
+  <% include partials/footer.ejs %>
+
+  <% include partials/scripts.ejs %>
+
+</body>
+</html>
